@@ -9,7 +9,7 @@
 
 ## Használat
 
-1. **Kódok Megtekintése**: Böngéssz a különböző fájlok között, és nézd meg a példakódokat.
+1. **Kódok megtekintése**: Böngéssz a különböző fájlok között, és nézd meg a példakódokat.
 2. **Futtatás**: Kövesd a fájlokban található utasításokat a kódok fordításához és futtatásához.
 3. **Magyarázatok**: Olvasd el a kommentárokat és magyarázatokat a kódok jobb megértéséhez.
 

@@ -1,6 +1,6 @@
-# Programozási Nyelvek 2
+# Programozási nyelvek 2
 
-Üdvözöllek a Programozási Nyelvek 2 laborórák kódgyűjteményében! Itt találhatók a laborórák során készített kódok, valamint részletes magyarázatok, amelyek segítenek az anyag könnyebb megértésében és elsajátításában.
+Üdvözöllek a Programozási nyelvek 2 laborórák kódgyűjteményében! Itt találhatók a laborórák során készített kódok, valamint részletes magyarázatok, amelyek segítenek az anyag könnyebb megértésében és elsajátításában.
 
 ## Tartalom
 
@@ -15,12 +15,34 @@
 
 ## Cél
 
-A repository célja, hogy segítse a Programozási Nyelvek 2 tantárgy anyagának gyakorlását és mélyebb megértését. A kódok és magyarázatok kombinációja révén hatékonyan sajátítható el a tananyag.
+A repository célja, hogy segítse a Programozási nyelvek 2 tantárgy anyagának gyakorlását és mélyebb megértését. A kódok és magyarázatok kombinációja révén hatékonyan sajátítható el a tananyag.
 
 ## Fordítás és futás
 
-Az egyes kódok fordítása és futtatása az alábbi lépések szerint történik:
+### C programozási nyelv
 
-```bash
-gcc <fájl_név>.c -o <kimeneti_fájl>
-./<kimeneti_fájl>
+A C nyelvű programok fordítása és futtatása az alábbi lépések szerint történik:
+
+1. **Fordítás**: Használj `gcc` fordítót a program forráskódjának fordításához:
+    ```bash
+    gcc <fájl_név>.c -o <kimeneti_fájl>
+    ```
+2. **Futtatás**: A fordított program futtatása az alábbi parancs használatával történik:
+    ```bash
+    ./<kimeneti_fájl>
+    ```
+
+### Java programozási nyelv
+
+A Java nyelvű programok fordítása és futtatása az alábbi lépések szerint történik:
+
+1. **Fordítás**: Használj `javac` fordítót a program forráskódjának fordításához:
+    ```bash
+    javac <fájl_név>.java
+    ```
+2. **Futtatás**: A fordított program futtatása az alábbi parancs használatával történik:
+    ```bash
+    java <osztály_név>
+    ```
+
+**Fontos**: A Java osztály nevének meg kell egyeznie a fájl nevével, és az `.java` fájlt a fordítás után a `.class` fájl fogja tartalmazni a bytecode-ot, amelyet a `java` parancs segítségével futtathatsz.

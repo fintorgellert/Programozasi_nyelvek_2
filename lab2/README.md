@@ -32,4 +32,4 @@ A Java programok futtatásához kövesd az alábbi lépéseket:
     javac StringExample.java
 3. **Futtassa a fájlt:**
     ```bash
-    java StringExample
+    java StringExample     

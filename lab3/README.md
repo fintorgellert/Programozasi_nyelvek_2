@@ -7,8 +7,9 @@
 - [Futtatás](#futtatás)
 
 ## Bevezetés
-A harmadik labor során az objektumorientált programozás alapelveit alkalmazzuk Java nyelven. A laborban különböző osztályokat és objektumokat hozunk létre, amelyek valós világban is előforduló fogalmakat modelleznek, mint például könyvek, körök és filmek.
-Magyarázásra kerül a private és public láthatósági szint különbsége, this kulcsszó, konstruktor, getter/setter metódusok, toString és statikus attributumok. 
+A harmadik labor során az objektumorientált programozás alapelveit alkalmazzuk Java nyelven. A laborban különböző osztályokat és objektumokat hozunk létre, amelyek valós világban is előforduló fogalmakat modelleznek, mint például könyvek, körök és filmek.  
+Magyarázásra kerül a `private` és `public` láthatósági szint különbsége, a `this` kulcsszó használata, konstruktorok, getter/setter metódusok, a `toString()` metódus és statikus attribútumok is.
+
 
 ## Fájlok áttekintése
 A projekt könyvtára a következő fájlokat tartalmazza:

@@ -7,13 +7,13 @@
 - [Futtatás](#futtatás)
 
 ## Bevezetés
-Az első labor órán megírt kódokat foglalja össze, ahol átismétlésre kerül példákon keresztül a C programozási nyelv és bemutat egy alap Java programozási nyelven írt kódot.
+Ez a projekt az első laboron megírt kódokat foglalja össze, ahol átismétlésre került, példákon bemutatva a C programozási nyelv és egy alap Java programozási nyelven írt kód.
 
 ## Fájlok áttekintése
 A projekt könyvtára a következő fájlokat tartalmazza:
 
 - `array.c`: Példa a tömbök kezelésére.
-- `ascii.c`: Példá az ASCII karakterek kiiratására.
+- `ascii.c`: Példa az ASCII karakterek kiiratására.
 - `continue_break.c`: Példa a `continue` és `break` utasítások használatára.
 - `HelloWorld/HelloWorld.java`: A klasszikus Hello World program Java nyelven.
 - `hello_world.c`: A klasszikus Hello World program C nyelven.

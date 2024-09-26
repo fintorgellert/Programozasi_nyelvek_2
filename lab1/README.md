@@ -5,7 +5,6 @@
 - [Fájlok áttekintése](#fájlok-áttekintése)
 - [Követelmények](#követelmények)
 - [Futtatás](#futtatás)
-- [Kapcsolat](#kapcsolat)
 
 ## Bevezetés
 Az első labor órán megírt kódokat foglalja össze, ahol átismétlésre kerül példákon keresztül a C programozási nyelv és bemutat egy alap Java programozási nyelven írt kódot.

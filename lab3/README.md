@@ -35,9 +35,12 @@ A programok futtatásához kövesd az alábbi lépéseket:
 1. **Navigáljon a kívánt mappába** (pl. `Movie`):
    ```bash
    cd Movie
+   ```
 2. **Fordítsa le a Java fájlt:**
     ```bash
     javac Movie.java
+    ```
 3. **Futtassa a fájlt:**
     ```bash
     java Movie
+    ```

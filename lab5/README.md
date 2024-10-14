@@ -40,9 +40,6 @@ A projekt könyvtára a következő fájlokat tartalmazza:
 ## Futtatás
 A programok futtatásához kövesse az alábbi lépéseket:
 
-## Futtatás
-A programok futtatásához kövesse az alábbi lépéseket:
-
 1. **Navigáljon a megfelelő könyvtárba** (pl. `CharacterTypeMethodExample`):
    ```bash
    cd CharacterTypeMethodExample

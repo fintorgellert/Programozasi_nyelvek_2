@@ -7,7 +7,7 @@
 - [Futtatás](#futtatás)
 
 ## Bevezetés
-Ez a projekt az első laboron megírt kódokat foglalja össze, ahol átismétlésre került, példákon bemutatva a C programozási nyelv és egy alap Java programozási nyelven írt kód.
+Ez a projekt az első héten laboron megírt kódokat foglalja össze, ahol átismétlésre került, példákon bemutatva a C programozási nyelv és egy alap Java programozási nyelven írt kód.
 
 ## Fájlok áttekintése
 A projekt könyvtára a következő fájlokat tartalmazza:

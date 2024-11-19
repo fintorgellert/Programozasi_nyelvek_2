@@ -7,7 +7,7 @@
 - [Futtatás](#futtatás)
 
 ## Bevezetés
-A negyedik labor során a Java programozás különböző aspektusait tárgyaltuk, beleértve a tömbök használatát, metódus túlterhelést, dinamikus tömböket és a `foreach` ciklus alkalmazását. Külön figyelmet szentelünk a tömbműveletek, például másolás, és a programok belépési pontjainak megértésére.
+A negyedik hét során a Java programozás különböző aspektusait tárgyaltuk, beleértve a tömbök használatát, metódus túlterhelést, dinamikus tömböket és a `foreach` ciklus alkalmazását. Külön figyelmet szentelünk a tömbműveletek, például másolás, és a programok belépési pontjainak megértésére.
 
 ## Fájlok áttekintése
 A projekt könyvtára a következő fájlokat tartalmazza:

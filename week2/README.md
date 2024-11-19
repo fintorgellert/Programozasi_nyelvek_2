@@ -7,7 +7,7 @@
 - [Futtatás](#futtatás)
 
 ## Bevezetés
-Ez a projekt a második labor során megírt Java kódokat tartalmazza. A cél az alapvető Java funkciók, például a logikai műveletek, a metódusok, a szkenner használata és a sztring műveletek megértése és gyakorlása.
+Ez a projekt a második hét során megírt Java kódokat tartalmazza. A cél az alapvető Java funkciók, például a logikai műveletek, a metódusok, a szkenner használata és a sztring műveletek megértése és gyakorlása.
 
 ## Fájlok áttekintése
 A projekt könyvtára a következő fájlokat tartalmazza:

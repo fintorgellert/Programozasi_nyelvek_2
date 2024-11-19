@@ -7,7 +7,7 @@
 - [Futtatás](#futtatás)
 
 ## Bevezetés
-Az ötödik labor során a Java programozás különböző aspektusait tárgyaltuk, beleértve a karakter típusok kezelését, parancssori argumentumok használatát, metódusok túlterhelését, sztringek és primitív típusok közötti konverziót, valamint a sztringek számjegyeinek összegzését. Külön figyelmet szentelünk a Java gyűjtemények használatának, különös tekintettel a listákra.
+Az ötödik hét során a Java programozás különböző aspektusait tárgyaltuk, beleértve a karakter típusok kezelését, parancssori argumentumok használatát, metódusok túlterhelését, sztringek és primitív típusok közötti konverziót, valamint a sztringek számjegyeinek összegzését. Külön figyelmet szentelünk a Java gyűjtemények használatának, különös tekintettel a listákra.
 
 ## Fájlok áttekintése
 A projekt könyvtára a következő fájlokat tartalmazza:

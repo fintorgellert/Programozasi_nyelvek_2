@@ -27,9 +27,12 @@ A Java programok futtatásához kövesd az alábbi lépéseket:
 1. **Navigáljon a kívánt mappába** (pl. `StringExample`):
    ```bash
    cd StringExample
+   ```
 2. **Fordítsa le a Java fájlt:**
     ```bash
     javac StringExample.java
+    ```
 3. **Futtassa a fájlt:**
     ```bash
-    java StringExample     
+    java StringExample
+    ```   

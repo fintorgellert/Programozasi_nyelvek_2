@@ -49,9 +49,12 @@ A programok futtatásához kövesse az alábbi lépéseket:
 1. **Navigáljon a megfelelő könyvtárba** (pl. `ArrayCopyExample`):
    ```bash
    cd ArrayCopyExample
+   ```
 2. **Fordítsa le a Java fájlt:**
     ```bash
     javac Main.java
+    ```
 3. **Futtassa a programot:**
      ```bsh
     java Main
+    ```

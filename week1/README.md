@@ -37,8 +37,10 @@ A programok futtatásához kövesd az alábbi lépéseket:
    ```bash
    gcc array.c -o array
    ./array
+   ```
 2. **Java programok fordítása és futtatása:**
     ```bash
     cd HelloWorld
     javac HelloWorld.java
     java HelloWorld
+    ```

@@ -1,4 +1,4 @@
-# Első labor
+# Első hét
 
 ## Tartalomjegyzék
 - [Bevezetés](#bevezetés)

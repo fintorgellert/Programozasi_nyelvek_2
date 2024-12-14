@@ -1,0 +1,3 @@
+1472:Buda
+1911:Debrecen,Miskolc
+1985:Szeged,Debrecen

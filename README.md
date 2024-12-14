@@ -46,3 +46,19 @@ A Java nyelvű programok fordítása és futtatása az alábbi lépések szerint
     ```
 
 **Fontos**: A Java osztály nevének meg kell egyeznie a fájl nevével, és az `.java` fájlt a fordítás után a `.class` fájl fogja tartalmazni a bytecode-ot, amelyet a `java` parancs segítségével futtathatsz.
+
+### C# programozási nyelv
+
+A C# nyelvű programok fordítása és futtatása az alábbi lépések szerint történik:
+
+1. **Fordítás**: Használj `dotnet` parancsot a program forráskódjának fordításához. Először is győződj meg róla, hogy a .NET SDK telepítve van, majd navigálj a projekt mappájába és futtassa:
+    ```bash
+    dotnet build
+    ```
+
+2. **Futtatás**: A fordított program futtatása az alábbi parancs használatával történik:
+    ```bash
+    dotnet run
+    ```
+
+**Fontos**: A C# projektnek rendelkeznie kell egy `.csproj` fájlal, amely tartalmazza a projekt beállításait. A `dotnet build` parancs a forráskódot lefordítja, a `dotnet run` pedig futtatja a programot.
